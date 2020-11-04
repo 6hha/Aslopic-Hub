@@ -11,4 +11,4 @@
         Discord Invite: https://discord.gg/URr9XQVrdd
 --]
 if game.Id == 155615604 then
-https://raw.githubusercontent.com/6hha/Aslopic-Hub/main/Prison%20Life.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/6hha/Aslopic-Hub/main/Prison%20Life.lua"))()
