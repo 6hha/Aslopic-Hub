@@ -8,7 +8,6 @@
         
         Owner: xlomished (no nut november)#7393
         Developer: m5#0001
-        Discord Invite: https://discord.gg/URr9XQVrdd
 -- ]
 
 if game.Id == 155615604 then
